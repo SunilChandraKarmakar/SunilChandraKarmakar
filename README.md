@@ -14,7 +14,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on Vonome Software and System [Communitrader](https://communitrader.com/)
+- 🔭 I’m currently working on [Dongyi Sourcing Limited](https://dongyi.co.uk/)
 
 - 🌱 I’m currently learning **Microservices Architecture, AWS, Azure**
 
